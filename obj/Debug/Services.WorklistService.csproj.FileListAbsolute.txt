@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Karaxi.K2.Services.K2WorklistService.dll.config
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Karaxi.K2.Services.K2WorklistService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Karaxi.K2.Services.K2WorklistService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\SourceCode.HostClientAPI.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\SourceCode.Workflow.Client.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\K2 blackpearl\ServiceBroker\SourceCode.K2.Services.WorklistService.dll.config
+C:\Program Files\K2 blackpearl\ServiceBroker\SourceCode.K2.Services.WorklistService.dll
+C:\Program Files\K2 blackpearl\ServiceBroker\SourceCode.K2.Services.WorklistService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\SourceCode.K2.Services.WorklistService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\SourceCode.K2.Services.WorklistService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.WorklistService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.WorklistService\obj\Debug\SourceCode.K2.Services.WorklistService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.WorklistService\obj\Debug\SourceCode.K2.Services.WorklistService.pdb
+C:\Projects\SourceCode.K2.Services\Services.WorklistService\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\K2 blackpearl\ServiceBroker\SourceCode.SmartObjects.Services.WorklistService.dll.config
+C:\Program Files (x86)\K2 blackpearl\ServiceBroker\SourceCode.SmartObjects.Services.WorklistService.dll
+C:\Program Files (x86)\K2 blackpearl\ServiceBroker\SourceCode.SmartObjects.Services.WorklistService.pdb
+C:\Projects\SourceCode.K2.Services\Services.WorklistService\obj\Debug\SourceCode.SmartObjects.Services.WorklistService.dll
+C:\Projects\SourceCode.K2.Services\Services.WorklistService\obj\Debug\SourceCode.SmartObjects.Services.WorklistService.pdb
+Z:\K2\Program Files (x86)\K2 blackpearl\ServiceBroker\SourceCode.SmartObjects.Services.WorklistService.dll.config
+Z:\K2\Program Files (x86)\K2 blackpearl\ServiceBroker\SourceCode.SmartObjects.Services.WorklistService.dll
+Z:\K2\Program Files (x86)\K2 blackpearl\ServiceBroker\SourceCode.SmartObjects.Services.WorklistService.pdb
+Z:\K2\Code\Worklist Service Broker v.02 (with source code)\Services.WorklistService\obj\Debug\ResolveAssemblyReference.cache
+Z:\K2\Code\Worklist Service Broker v.02 (with source code)\Services.WorklistService\obj\Debug\SourceCode.SmartObjects.Services.WorklistService.dll
+Z:\K2\Code\Worklist Service Broker v.02 (with source code)\Services.WorklistService\obj\Debug\SourceCode.SmartObjects.Services.WorklistService.pdb
+C:\Users\K2Student\Desktop\Worklist Service Broker v0.3\Worklist Service Broker\Services.WorklistService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\K2Student\Desktop\Worklist Service Broker v0.3\Worklist Service Broker\Services.WorklistService\obj\Debug\SourceCode.SmartObjects.Services.WorklistService.dll
+C:\Users\K2Student\Desktop\Worklist Service Broker v0.3\Worklist Service Broker\Services.WorklistService\obj\Debug\SourceCode.SmartObjects.Services.WorklistService.pdb

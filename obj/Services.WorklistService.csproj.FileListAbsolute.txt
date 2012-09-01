@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Karaxi.K2.Services.K2WorklistService.dll.config
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Karaxi.K2.Services.K2WorklistService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Karaxi.K2.Services.K2WorklistService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\SourceCode.HostClientAPI.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\SourceCode.Workflow.Client.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\Karaxi.K2.Services.K2WorklistService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\Karaxi.K2.Services.K2WorklistService.pdb

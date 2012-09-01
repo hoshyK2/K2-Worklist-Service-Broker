@@ -1,0 +1,19 @@
+C:\Sonnenschein.K2\Services.Elite\obj\Debug\ResolveAssemblyReference.cache
+C:\Sonnenschein.K2\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.dll
+C:\Sonnenschein.K2\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.pdb
+C:\Sonnenschein.K2\Services.Elite\obj\Debug\Sonnenschein.K2.Services.EliteService.dll
+C:\Sonnenschein.K2\Services.Elite\obj\Debug\Sonnenschein.K2.Services.EliteService.pdb
+C:\Sample\Services.Elite\obj\Debug\ResolveAssemblyReference.cache
+C:\Sample\Services.Elite\obj\Debug\Sonnenschein.K2.Services.EliteService.dll
+C:\Sample\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.dll.config
+C:\Sample\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.dll
+C:\Sample\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.pdb
+C:\Sample\Services.Elite\obj\Debug\Sonnenschein.K2.Services.EliteService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\Sonnenschein.K2.Services.EliteService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\obj\Debug\Sonnenschein.K2.Services.EliteService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.dll.config
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\Sonnenschein.K2.Services.EliteService.pdb
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\SourceCode.HostClientAPI.dll
+C:\Documents and Settings\Administrator\Desktop\Sun\Services.Elite\bin\Debug\SourceCode.Workflow.Client.dll
